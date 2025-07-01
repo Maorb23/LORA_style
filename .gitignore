@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+venv/
+.env
+# Huggingface caches
+~/.cache/huggingface/
+# LoRA adapters
+lora_*_adapter/
