@@ -1,12 +1,19 @@
-# Python
+# Python cache and artifacts
 __pycache__/
 *.py[cod]
 *.so
 *.egg
 *.egg-info/
+
+# Virtual environments
 venv/
+venvl/
+
+# Environment files
 .env
-# Huggingface caches
-~/.cache/huggingface/
+
+# Huggingface cache
+.cache/huggingface/
+
 # LoRA adapters
 lora_*_adapter/
