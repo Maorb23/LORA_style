@@ -1,0 +1,18 @@
+{
+  "total_samples": 6929,
+  "authors": [
+    "hemingway",
+    "dickens",
+    "wells",
+    "twain"
+  ],
+  "method": "direct_gutenberg_download",
+  "focus": "Classic literary authors with distinctive styles",
+  "notes": {
+    "hemingway": "Limited early works (most under copyright until ~2050)",
+    "dickens": "Full range of major novels available",
+    "wells": "Complete science fiction classics",
+    "twain": "Major American literature works"
+  },
+  "timestamp": "1751389536.133914"
+}
